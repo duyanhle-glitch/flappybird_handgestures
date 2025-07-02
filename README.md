@@ -10,16 +10,8 @@ Dự án giúp điều khiển game Flappy Bird bằng cử chỉ tay, sử dụ
 1. Cài thư viện:
 pip install -r requirements.txt
 
-bash
-Sao chép
-Chỉnh sửa
-
 2. Chạy chương trình:
 python main.py
-
-markdown
-Sao chép
-Chỉnh sửa
 
 3. Mở game Flappy Bird bản web hoặc Pygame, để window focus.
 
