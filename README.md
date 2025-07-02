@@ -1,3 +1,6 @@
+Tải toàn bộ về: git clone https://github.com/duyanhle-glitch/flappybird_handgestures
+
+
 # Hand Gesture Controlled Flappy Bird
 
 ## Mô tả:
